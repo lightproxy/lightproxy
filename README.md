@@ -1,0 +1,2 @@
+# lightproxy
+Light proxy protocol.
